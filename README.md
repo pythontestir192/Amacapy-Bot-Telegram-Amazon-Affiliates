@@ -89,8 +89,8 @@
 <li> 9. The support_dev.xlsx file stores whether or not the developer will be supported by the affiliate link. </li>
 
 
-<h3 align="center"> Thank you for using the program, you can support me through <a target=”_blank” href='https://paypal.me/davidsulbaran'>Paypal.</a> </h3>
-<h3 align="center"> You can contact me on <a target=”_blank” href='https://t.me/+xzxygFLwEmI1NzVh'>Telegram.</a> </h3>
+<h3 align="center"> Thank you for using the program, you can support me through <a target=”_blank” href='yajitro.255@gmail.com'>Paypal.</a> </h3>
+<h3 align="center"> You can contact me on <a target=”_blank” href='https://t.me/PythonPassiveIncomeOfficial'>Telegram.</a> </h3>
 
 
 
